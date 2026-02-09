@@ -4,4 +4,4 @@ float
 list
 dict
 bool
-None
+NoneType
